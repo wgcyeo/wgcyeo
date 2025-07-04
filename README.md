@@ -1,6 +1,6 @@
 ## 👋🏻 Hi there, I'm [Woongyeong Yeo](https://wgcyeo.github.io).
 
-I'm an undergraduate student at [School of Computing](https://cs.kaist.ac.kr), [KAIST](https://www.kaist.ac.kr/en). I am currently working as an undergraduate research intern at [MLAI Lab](https://www.mlai-kaist.com), advised by [Prof. Sung Ju Hwang](http://www.sungjuhwang.com), with a strong research focus on multimodal large language models (MLLMs).
+I'm a master's student at the [Graduate School of AI](https://gsai.kaist.ac.kr), [KAIST](https://www.kaist.ac.kr/en), where I am advised by [Prof. Sung Ju Hwang](http://www.sungjuhwang.com) in the [MLAI Lab](https://www.mlai-kaist.com), with a strong research focus on multimodal large language models (MLLMs).
 
 ### 📌 Pinned Repositories
 
